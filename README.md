@@ -7,9 +7,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 * 👨‍💻 Wannabe Front-end Developer
-* ☕️ Caffeine Lover (ENERGY ⚡️⚡️)
+* ☕️ Caffeine lover (ENERGY ⚡️⚡️)
 * 🚀 Interested in Typescript
 * 🌱 I’m currently digging Javascript
-* ✨ Passionate about Programming and Design...
-
-<h4>Thank You for Visiting!</h4>
+* ✨ Passionate about programming and design
