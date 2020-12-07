@@ -10,5 +10,5 @@
 * 👨‍💻 Newbie Front-end developer
 * ☕️ Caffeine lover (ENERGY ⚡️⚡️)
 * 🚀 Interested in Typescript
-* 🌱 I’m currently digging Javascript
+* 🌱 Currently digging Javascript
 * ✨ Passionate about programming and design
