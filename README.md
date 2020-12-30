@@ -11,4 +11,3 @@
 * ☕️ Caffeine lover (ENERGY ⚡️⚡️)
 * 🚀 Interested in TypeScript
 * 🌱 Currently digging JavaScript
-* ✨ Passionate about programming and design
