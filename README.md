@@ -7,7 +7,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
-* 👨‍💻 Newbie full-stack developer
+* 👨‍💻 Newbie front-end developer
 * ☕️ Caffeine lover (ENERGY ⚡️⚡️)
-* 🚀 Interested in TypeScript
+* 🚀 Interested in TypeScript, WebGL
 * 🌱 Currently digging JavaScript
