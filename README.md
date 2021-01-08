@@ -12,5 +12,5 @@
 
 * 👨‍💻 Newbie front-end developer
 * ☕️ Caffeine lover (ENERGY ⚡️⚡️)
-* 🚀 Interested in TypeScript, WebGL, three.js
-* 🌱 Currently digging more JavaScript!
+* 🚀 Interested in WebGL, three.js
+* 🌱 Currently digging React!
