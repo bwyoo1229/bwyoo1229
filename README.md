@@ -16,6 +16,6 @@
 
 
 ## 2021 NEW YEARS RESOLUTION
-> 1. To make 3000 contributions
+> 1. Make 3000 contributions
 > 2. Try my best to commit everyday
 > 3. Start a decent three.js project
