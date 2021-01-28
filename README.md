@@ -13,7 +13,7 @@
 ```
 Hi, there, I'm Byeonguk :)
 
-I'm a frontend developer who wishes to give awesome user experience and beautifully interacting interfaces with code.
+I'm a frontend developer who wishes to give awesome user experience and beautifully interacting interfaces through code.
 ```
 
 ## ABOUT ME
