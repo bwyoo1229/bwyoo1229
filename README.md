@@ -9,13 +9,12 @@
 <!-- ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) -->
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-'''
 
+```
 Hi, there, I'm Byeonguk :)
 
 I'm a frontend developer who wishes to give awesome user experience and beautifully interacting interfaces with code.
-
-'''
+```
 
 ## ABOUT ME
 * 👨‍💻 Newbie frontend developer
