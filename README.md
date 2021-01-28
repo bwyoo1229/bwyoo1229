@@ -14,8 +14,9 @@
 Hi, there, I'm Byeonguk :)
 
 I'm a frontend developer who wishes to give
-Awesome user experiences and 
-Beautifully interacting interfaces through code.
+awesome user experiences and 
+beautifully interacting interfaces with 
+well crafted codes.
 ```
 
 ## ABOUT ME
