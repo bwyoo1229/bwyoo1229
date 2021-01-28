@@ -11,7 +11,7 @@
 
 
 ```
-Hi, there, I'm Byeonguk :)
+Hi, I'm Byeonguk :)
 
 I'm a frontend developer who wishes to give
 awesome user experiences and 
