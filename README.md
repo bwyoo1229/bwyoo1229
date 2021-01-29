@@ -13,7 +13,7 @@
 ```
 Hi, I'm Byeonguk :)
 
-I love programming, beautiful designs and fun UI/UX.
+I love programming and beautiful UI/UX designs.
 ```
 
 ## ABOUT ME
