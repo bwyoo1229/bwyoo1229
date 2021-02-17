@@ -15,9 +15,9 @@ I love programming and beautiful UI/UX designs.
 ```
 
 ## ABOUT ME
-* 👨‍💻 Newbie frontend developer
+* 👨‍💻 Avid developer
 * ☕️ Caffeine lover (ENERGY ⚡️⚡️)
-* 🚀 Interested in WebGL, three.js
+* 🚀 Interested in WebGL
 * 🌱 Currently digging React!
 
 
