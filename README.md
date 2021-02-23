@@ -14,6 +14,6 @@ Hi, I'm Byeonguk :)
 I love programming and beautiful UI/UX designs.
 ```
 
-## ABOUT ME 🚀
+## ABOUT ME 👨‍🚀
 * 👨‍💻 Avid developer
 * ☕️ Caffeine lover (ENERGY ⚡️⚡️)
