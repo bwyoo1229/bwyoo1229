@@ -19,9 +19,3 @@ I love programming and beautiful UI/UX designs.
 * ☕️ Caffeine lover (ENERGY ⚡️⚡️)
 * 🚀 Interested in WebGL
 * 🌱 Currently digging React!
-
-
-## 2021 NEW YEARS RESOLUTION
-> 1. Make more than 3000 contributions
-> 2. Try my best to commit everyday
-> 3. Start a decent three.js project
