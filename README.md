@@ -9,11 +9,38 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ```
-Hi, I'm Byeonguk :)
+Hi, I'm Byeonguk.
 
 I love programming and beautiful UI/UX designs.
+
+To learn more about my projects, please refer to README.md files in the table below.
+
+THX :)
 ```
 
 ## ABOUT ME 👨‍🚀
 * 👨‍💻 Avid developer
 * ☕️ Caffeine lover (ENERGY ⚡️⚡️)
+* 🕸 Interested in web frontend programming
+* 🚀 Currently learning React and TypeScript
+
+## PROJECTS 💻
+
+|PROJECT NAME|DATE|CATEGORY|GOTO|
+|:---:|:---|:---|:---|
+|Bogota(보고타|2020.07 - 2020.08|Team Project|[README.md](https://github.com/bwyoo1229/Show_me_the_CAR)|
+|MIPS Pipeline Simulator|2020.12 - 2020.12|Personal Project|[REAME.md](https://github.com/bwyoo1229/mips-simulator)|
+|Netflix Webpage Clone|2021.01-2021.02|Personal Project|[README.md](https://github.com/bwyoo1229/netflix-clone)|
+|Todoist Clone|2021.2 - WIP|Personal Project|[README.md](https://github.com/bwyoo1229/todoist-clone)|
+|entropyboxesJS|2021.1 - WIP|Toy Project|[README.md](https://github.com/bwyoo1229/entropyboxesJS)|
+
+## ACTIVITIES 🔥
+
+> **피로그래밍 (웹 프로그래밍 동아리) 13기**
+2020.08 - 2020.09
+* HTML, CSS, JS에 대한 학습
+* 4명의 팀원과 함께 웹 어플리케이션 제작
+
+> **피로그래밍 (웹 프로그래밍 동아리) 14기 git 강의**
+2020.12
+* git의 기본적 이용 방법과 github으로 협업하는 방법에 대한 강의 진행
