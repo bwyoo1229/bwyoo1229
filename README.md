@@ -13,7 +13,7 @@ Hi, I'm Byeonguk.
 
 I love programming and beautiful UI/UX designs.
 
-To learn more about my projects, please refer to README.md files in the table below.
+To learn more about my projects, please refer to the README.md files in the table below.
 
 THX :)
 ```
