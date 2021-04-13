@@ -27,14 +27,14 @@ THX :)
 ## PROJECTS 💻
 
 |PROJECT NAME|DATE|CATEGORY|GOTO|
-|:---:|:---|:---|:---|
+|:---|:---|:---|:---|
 |Bogota(보고타|2020.07 - 2020.08|Team Project|[README.md](https://github.com/bwyoo1229/Show_me_the_CAR)|
 |MIPS Pipeline Simulator|2020.12 - 2020.12|Personal Project|[REAME.md](https://github.com/bwyoo1229/mips-simulator)|
 |Netflix Webpage Clone|2021.01-2021.02|Personal Project|[README.md](https://github.com/bwyoo1229/netflix-clone)|
 |Todoist Clone|2021.2 - WIP|Personal Project|[README.md](https://github.com/bwyoo1229/todoist-clone)|
 |entropyboxesJS|2021.1 - WIP|Toy Project|[README.md](https://github.com/bwyoo1229/entropyboxesJS)|
 
-## ACTIVITIES 🔥
+## ACTIVITIES 🙌
 
 > **피로그래밍 (웹 프로그래밍 동아리) 13기**
 2020.08 - 2020.09
