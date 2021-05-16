@@ -11,7 +11,7 @@
 ```
 Hi, I'm Byeonguk Yoo.
 
-I sometimes code for fun but generally more interested in how to use new programs and technologies.
+I sometimes code for fun but generally I'm more interested in the impact of new technologies and how to utilize them.
 
 To learn more about my projects, please refer to the README.md files in the table below.
 
