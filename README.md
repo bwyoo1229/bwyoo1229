@@ -9,9 +9,9 @@
 <!--![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)-->
 
 ```
-Hi, I'm Byeonguk.
+Hi, I'm Byeonguk Yoo.
 
-I love programming and beautiful UI/UX designs.
+I sometimes code for fun but generally more interested in how to use new programs and technologies.
 
 To learn more about my projects, please refer to the README.md files in the table below.
 
@@ -19,10 +19,10 @@ THX :)
 ```
 
 ## ABOUT ME 👨‍🚀
-* 👨‍💻 Avid developer
+* 👨‍💻 Fun developer
 * ☕️ Caffeine lover (ENERGY ⚡️⚡️)
-* 🕸 Interested in web frontend programming
-* 🚀 Currently learning React and TypeScript
+* 🕸 Interested in blockchain, metaverse, genZ cultures.
+* 🚀 Currently learning golang.
 
 ## PROJECTS 💻
 
