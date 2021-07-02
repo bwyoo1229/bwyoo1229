@@ -9,17 +9,10 @@
 <!--![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)-->
 
 ```
-Hi, I'm Byeonguk Yoo.
-
-I sometimes code for fun but generally I'm more interested in the impact of new technologies and how to utilize them.
-
-To learn more about my projects, please refer to the README.md files in the table below.
-
-THX :)
+Hi, I code for fun :)
 ```
 
 ## ABOUT ME 👨‍🚀
-* 👨‍💻 Fun developer
 * ☕️ Caffeine lover (ENERGY ⚡️⚡️)
 * 🕸 Interested in blockchain, metaverse, genZ cultures.
 * 🚀 Currently learning golang.
